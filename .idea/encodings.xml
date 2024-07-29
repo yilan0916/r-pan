@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/r-pan-distribution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-cache/r-pan-cache-caffeine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-cache/r-pan-cache-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-cache/r-pan-cache-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-orm/r-pan-mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-orm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-orm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-swagger2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/r-pan-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-pan-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
